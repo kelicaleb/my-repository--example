@@ -11,7 +11,7 @@
 
 ## Introduction
 
-So far lessons have only contained written content on specific topics. All you
+So fr lessons have only contained written content on specific topics. All you
 needed to do was read through each lesson and continue on. This lesson, however,
 is considered an _assignment_. Assignments are exercises that have some written
 content to guide you, but also ask you to complete some work of your own. Many
